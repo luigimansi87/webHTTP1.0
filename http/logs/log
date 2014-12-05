@@ -1,0 +1,85 @@
+20141205-024614
+20141205-025630
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9999
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+GET /prova.jpg HTTP/1.1
+192.168.1.65:9999
+*/*
+20141205-025943
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9999
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+20141205-030056
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9999
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+20141205-030207
+20141205-030642
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9999
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+20141205-030722
+20141205-030739
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9998
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+20141205-030952
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9997
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+
+prova.ULL
+convert prova.jpgprova.ULL
+convert prova.jpgprova.ULL
+prova.ULL
+convert prova.jpgprova.ULL
+/home/luigi/http/res/prova.ULL
+20141205-031230
+GET /prova.jpg HTTP/1.1
+Host: 192.168.1.65:9997
+Accept: */*
+
+
+/home/luigi/http/res/prova.jpg
+image/jpeg
+
+prova.jpg
+convert prova.jpgprova.jpg
+convert prova.jpgprova.jpg
+prova.jpg
+convert prova.jpgprova.jpg
+/home/luigi/http/res/prova.jpg
+HTTP/1.1 200 OK
+Server: PT06
+Content-Length: 8877
+Content-Type: image/jpeg
+Date: Fri Dec  5 03:12:42 2014
+
+
+200 OK
+20141205-032757
